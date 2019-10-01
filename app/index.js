@@ -1,0 +1,1 @@
+import * as o02 from './02.strings';
